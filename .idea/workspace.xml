@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793b64a3-3582-4673-bd94-604c3f0d3a56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheeseBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheeseBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1213" />
+          <entry key="java" value="1339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1213" />
+          <entry key="JAVA" value="1339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -50,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Burger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
+            <state relative-caret-position="714">
               <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
               <folding>
                 <element signature="e#407#408#0" expanded="true" />
@@ -77,23 +78,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheeseBurger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="83" lean-forward="true" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -103,14 +95,43 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="128" selection-start-line="32" selection-start-column="128" selection-end-line="32" selection-end-column="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cheese.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CheeseKind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -120,6 +141,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -132,6 +154,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Burger.java" />
         <option value="$PROJECT_DIR$/src/Klasa.java" />
+        <option value="$PROJECT_DIR$/src/CheeseKind.java" />
+        <option value="$PROJECT_DIR$/src/Cheese.java" />
         <option value="$PROJECT_DIR$/src/CheeseBurger.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
@@ -178,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541508760807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541508857732" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -219,12 +243,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541503134761</updated>
-      <workItem from="1541503139695" duration="5407000" />
+      <workItem from="1541503139695" duration="5871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5407000" />
+    <option name="totallyTimeSpent" value="5871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-190" width="1936" height="1056" extended-state="6" />
@@ -235,12 +259,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.11822126" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.06399132" />
@@ -271,20 +295,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Burger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
+        <state relative-caret-position="714">
           <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
           <folding>
             <element signature="e#407#408#0" expanded="true" />
@@ -309,21 +325,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CheeseBurger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="340">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheeseKind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="83" lean-forward="true" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+        <state relative-caret-position="544">
+          <caret line="32" column="128" selection-start-line="32" selection-start-column="128" selection-end-line="32" selection-end-column="128" />
         </state>
       </provider>
     </entry>

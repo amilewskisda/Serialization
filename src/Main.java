@@ -30,7 +30,7 @@ public class Main {
         }*/
 
         // CheeseBurger nie musi mieć zaimplementowanego serializable !
-        CheeseBurger cheeseBurger =  new CheeseBurger("Cheeseburger", 22.49F,true, true, CheeseKind.CHEDDAR);
+        CheeseBurger cheeseBurger =  new CheeseBurger("Cheeseburger", 22.49F,true, true, new Cheese("yellow", CheeseKind.CHEDDAR));
         serializeObject(cheeseBurger);
         CheeseBurger deserializedCheeseBurger = (CheeseBurger) deserializeObject();
         if (deserializedCheeseBurger != null) {
