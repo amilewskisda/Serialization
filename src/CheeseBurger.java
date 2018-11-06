@@ -1,24 +1,24 @@
 public class CheeseBurger extends Burger {
 
-    private boolean cheeseAdded;
+    private CheeseKind cheeseKind;
 
-    public CheeseBurger(String name, Float price, boolean meetAdded, boolean vegetablesAdded, boolean cheeseAdded) {
+    public CheeseBurger(String name, Float price, boolean meetAdded, boolean vegetablesAdded, CheeseKind cheeseKind) {
         super(name, price, meetAdded, vegetablesAdded);
-        this.cheeseAdded = cheeseAdded;
+        this.cheeseKind = cheeseKind;
     }
 
-    public boolean isCheeseAdded() {
-        return cheeseAdded;
+    public CheeseKind getCheeseKind() {
+        return cheeseKind;
     }
 
-    public void setCheeseAdded(boolean cheeseAdded) {
-        this.cheeseAdded = cheeseAdded;
+    public void setCheeseKind(CheeseKind cheeseKind) {
+        this.cheeseKind = cheeseKind;
     }
 
     @Override
     public String toString() {
         return "CheeseBurger{" +
-                "cheeseAdded=" + cheeseAdded +
+                "cheeseKind=" + cheeseKind +
                 "} " + super.toString();
     }
 }
